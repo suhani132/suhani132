@@ -1,10 +1,13 @@
-<h1 align="center">Hi 👋, I'm Suhani Jain</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=suhani132&label=My%20visitors&color=red&right_color=green&style=flat" alt="suhani132" /> </p>
+<div>
+<h1 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=4000&width=400&lines=Hi+There!+👋,+I'm+Suhani+Jain" alt="Hi 👋,there I'm Suhani Jain" /></h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suhani132&label=Profile%20views&color=0e75b6&style=flat" alt="suhani132" /> </p>
+<br>
 
 - 🌱 I’m currently learning **Next.js**
-
+- I'm currently working on Full Stack Project
 - 📫 How to reach me **jainsuhani132@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
