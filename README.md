@@ -13,7 +13,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- <a href="https://instagram.com/_suhani132" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_suhani132" height="30" width="40" /></a> -->
-  **jainsuhani132@gmail.com**
+ <a href="mailto:jainsuhani132@gmail.com" target="blank">
+  <img align="center" src="" alt="jainsuhani132@gmail.com" height="30" width="40" />
+</a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
